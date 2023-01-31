@@ -1,5 +1,14 @@
 # Presentation-projets
 
+:icons: font
+:models: models
+:experimental:
+:incremental:
+:numbered:
+:toc: macro
+:window: _blank
+:correction!:
+
 toc::[]
 
-== Projet BUT
+== Présentation des projets au BUT
